@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aulette
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git and Github.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Git and Github
 - 💞️ I’m looking to collaborate on websites
 - 📫 You can reach me by my email : aulettemartins@gmail.com
 
